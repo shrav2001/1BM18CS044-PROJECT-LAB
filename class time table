@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+    </style>
+
+</head>
+
+<body>
+    <table>
+        <th colspan="11">
+            <h1>TIME TABLE CA</h1>
+        </th>
+        <tr>
+            <th></th>
+            <th>8:00 to 8:55</th>
+            <th>8:55 to 9:50</th>
+            <th>9:50 to 10:45</th>
+            <th>10:45 to 11:15</th>
+            <th>11:15 to 12:10</th>
+            <th>12:10 to 1:05</th>
+            <th>1:05 to 2:00</th>
+            <th>2:00 to 2:55</th>
+            <th>2:55 to 3:50</th>
+            <th>3:50 to 4:45</th>
+        </tr>
+        <tr>
+
+            <th>mon</th>
+            <th></th>
+
+            <th colspan="2">A3 MP LAB -(SG) L4<br> A4 MP LAB -(SG) L4<br> A1 PROJECT LAB -(SG) L3<br> A2 PROJECT LAB -(SG) L3<br>
+            </th>
+            <th rowspan="6">BREAK</th>
+            <th>DM</th>
+            <th>MP(SG)</th>
+            <TH rowspan="6">LUNCH</TH>
+            <th colspan="2">LD TUTORIAL(BGP)</th>
+            <th>DIP MATHS</th>
+
+        </tr>
+        <tr>
+            <th>tue</th>
+            <th></th>
+            <th colspan="2">A1 DS LAB -(NNK) L2<br> A2 DS LAB -(RM) L2<br> A3 DS LAB -(KPM) L3<br> A4 DS LAB -(ISH) L3<br>
+            </th>
+            <th>LD(BGP)</th>
+            <th>COA(BJ)</th>
+            <th></th>
+            <TH></TH>
+            <TH></TH>
+
+
+        </tr>
+        <tr>
+            <th>wed</th>
+            <th></th>
+            <th>JAVA(ARC)</th>
+            <th>DS(NNK)</th>
+
+            <th>LD(BGP)</th>
+            <th>DM</th>
+            <th colspan="2">A1 MP LAB-(SG) L4<br> A2 MP LAB-(BSR) L4<br> A3 PROJECT LAB-(SAN) L3<br> A4 PROJECT LAB-(NM) L3<br></th>
+            <th>DIP MATHS</th>
+
+
+
+
+        </tr>
+        <tr>
+
+            <th>thur</th>
+            <th></th>
+            <TH></TH>
+
+            <TH>MP(SG)</TH>
+
+
+
+
+            <th>DS(NNK)</th>
+            <th>JAVA(ARC)</th>
+            <th colspan="2">DM TUTORIAL</th>
+            <th></th>
+
+
+
+        </tr>
+        <tr>
+
+            <th>fri</th>
+            <th></th>
+            <TH>DS(NNK)</TH>
+
+            <TH>JAVA(ARC)</TH>
+
+
+
+
+            <th>MP(SG)</th>
+            <th>COA(BJ)</th>
+            <th colspan="2">
+                A1 JAVA LAB-(ARC) L5<br> A2 JAVA LAB-(BSR) L5<br> A3 JAVA LAB-(PS) L6<br> A1 JAVA LAB-(VBM) L6<br>
+            </th>
+            <th></th>
+
+
+
+        </tr>
+        <tr>
+
+            <th>sat</th>
+            <th></th>
+
+            <th></th>
+
+
+
+
+            <th>DM</th>
+            <th>COA(BJ)</th>
+            <th>CIPE</th>
+            <th colspan="2">DIP MATHS TUTORIAL</th>
+            <th></th>
+
+</tr>
+ </table>
+</body>
+
+</html>
