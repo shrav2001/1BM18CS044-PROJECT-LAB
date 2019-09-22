@@ -1,0 +1,82 @@
+<html>
+
+<head>
+    <title>login page</title>
+    <style type="text/css">
+        body {
+            background-color: #f0f0f2;
+            margin: 0;
+            padding: 0;
+            font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background-size: cover;
+        }
+        
+        .div2 {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: rgb(61, 53, 53);
+        }
+        
+        .div {
+            width: 600px;
+            margin: 5em auto;
+            padding: 50px;
+            background-color: #fff;
+            border-radius: 1em;
+            opacity: 0.9;
+        }
+        
+        @media (max-width: 700px) {
+            body {
+                background-color: #fff;
+            }
+            .div1 {
+                width: auto;
+                margin: 0 auto;
+                border-radius: 2em;
+                padding: 1em;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <body background="../self images/bms1.jpg">
+
+
+        <div class="div">
+
+            <center>
+                <img src="../self images/bmscelogo.jpg" height="200px" width="200px" />
+
+            </center>
+            <div class="div2">
+                <h1>
+                    <center>LOGIN</center>
+                </h1>
+            </div>
+            <br>
+            <br>
+            <div class=".div1">
+                <p>
+                    <center>
+                        USERNAME:
+                        <input type="text" placeholder="enter username"><br><br> PASSWORD:
+                        <input type="password" placeholder="enter password">
+
+                    </center>
+                    <br><br>
+                    <div class="link">
+                        <a href="https://www.google.com">forgot password?</a>
+                    </div>
+                </p>
+            </div>
+
+        </div>
+        </div>
+
+
+    </body>
+
+
+</html>
