@@ -1,0 +1,80 @@
+.zoom:hover {
+    -ms-transform: scale(1.03);
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03);
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.cse {
+    color: rgb(48, 73, 73);
+    font-size: 40px;
+}
+
+body {
+    height: 100%;
+    background-size: cover;
+    image-rendering: optimizeQuality;
+}
+
+.year {
+    color: rgb(78, 12, 12);
+    font-size: 27px;
+}
+
+.zoom {
+    overflow: auto;
+}
+
+.img2 {
+    float: left;
+    height: 60px;
+    width: 80px;
+}
+
+.zoom {
+    height: 60px;
+    width: 300px;
+    padding: 25px;
+    background-color: rgb(238, 191, 104);
+    border-radius: 0.8em;
+}
+
+.text {
+    text-align: center;
+    font-size: 50px;
+    font-style: oblique;
+    color: rgb(73, 24, 24);
+}
+
+#icon {
+    float: right;
+    position: relative;
+    top: -16px;
+    right: -16px;
+}
+
+#icon1 {
+    float: right;
+    position: relative;
+    top: -16px;
+    right: -16px;
+}
+
+#icon2 {
+    float: right;
+    position: relative;
+    top: -16px;
+    right: -16px;
+}
+
+#icon3 {
+    float: right;
+    position: relative;
+    top: -16px;
+    right: -16px;
+}
